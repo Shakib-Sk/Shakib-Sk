@@ -15,8 +15,6 @@ Skills: JAVA/C/XML/ANDROID STUDIO/SQL/FIREBASE/MYSQL
  
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username= Shakib-Sk&show_icons=true)  
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username= Shakib-Sk)  
-
 ![GitHub metrics](https://metrics.lecoq.io/ Shakib-Sk)  
 
 ![Profile views](https://gpvc.arturio.dev/Shakib-Sk)  
