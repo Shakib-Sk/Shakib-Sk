@@ -14,6 +14,4 @@ Skills: JAVA/C/XML/ANDROID STUDIO/SQL/FIREBASE/MYSQL
 [![trophy](https://github-profile-trophy.vercel.app/?username=Shakib-Sk)](https://github.com/ryo-ma/github-profile-trophy)
  
 
-![GitHub metrics](https://metrics.lecoq.io/Shakib-Sk)  
-
 ![Profile views](https://gpvc.arturio.dev/Shakib-Sk)  
